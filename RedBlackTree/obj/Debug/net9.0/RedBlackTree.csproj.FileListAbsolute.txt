@@ -1,0 +1,14 @@
+/Users/michaelsingh/PROG 7312 EB/RedBlackTree/obj/Debug/net9.0/RedBlackTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelsingh/PROG 7312 EB/RedBlackTree/obj/Debug/net9.0/RedBlackTree.AssemblyInfoInputs.cache
+/Users/michaelsingh/PROG 7312 EB/RedBlackTree/obj/Debug/net9.0/RedBlackTree.AssemblyInfo.cs
+/Users/michaelsingh/PROG 7312 EB/RedBlackTree/obj/Debug/net9.0/RedBlackTree.csproj.CoreCompileInputs.cache
+/Users/michaelsingh/PROG 7312 EB/RedBlackTree/bin/Debug/net9.0/RedBlackTree
+/Users/michaelsingh/PROG 7312 EB/RedBlackTree/bin/Debug/net9.0/RedBlackTree.deps.json
+/Users/michaelsingh/PROG 7312 EB/RedBlackTree/bin/Debug/net9.0/RedBlackTree.runtimeconfig.json
+/Users/michaelsingh/PROG 7312 EB/RedBlackTree/bin/Debug/net9.0/RedBlackTree.dll
+/Users/michaelsingh/PROG 7312 EB/RedBlackTree/bin/Debug/net9.0/RedBlackTree.pdb
+/Users/michaelsingh/PROG 7312 EB/RedBlackTree/obj/Debug/net9.0/RedBlackTree.dll
+/Users/michaelsingh/PROG 7312 EB/RedBlackTree/obj/Debug/net9.0/refint/RedBlackTree.dll
+/Users/michaelsingh/PROG 7312 EB/RedBlackTree/obj/Debug/net9.0/RedBlackTree.pdb
+/Users/michaelsingh/PROG 7312 EB/RedBlackTree/obj/Debug/net9.0/RedBlackTree.genruntimeconfig.cache
+/Users/michaelsingh/PROG 7312 EB/RedBlackTree/obj/Debug/net9.0/ref/RedBlackTree.dll
